@@ -40,4 +40,4 @@ The dataset used in this analysis is a survey from Malaysia about Starbucks cust
 
 ## Repository Structure
 
-This repository contains the Jupyter Notebook (`your_notebook_name.ipynb`) with the complete analysis.
+This repository contains the Jupyter Notebook with the complete analysis.
