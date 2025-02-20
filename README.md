@@ -1,4 +1,3 @@
-%%writefile README.md
 # Starbucks Customer Behavior Analysis
 
 This Jupyter Notebook analyzes customer behavior data from a Starbucks customer survey in Malaysia.  The analysis aims to understand customer demographics, purchasing habits, and identify factors influencing customer retention and visit frequency.
